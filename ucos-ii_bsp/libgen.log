@@ -19,6 +19,4 @@ Running libs - 'make -s libs "COMPILER=arm-xilinx-eabi-gcc"
 "EXTRA_COMPILER_FLAGS=-g"'.
 Running execs_generate.
 kkkkkkkkkkkkkkkk
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-
-ahmed
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
