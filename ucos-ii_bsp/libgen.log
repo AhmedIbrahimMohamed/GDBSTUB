@@ -11,7 +11,7 @@ Running DRCs.
 Running generate.
 Running post_generate.
 Running include - 'make -s include "COMPILER=arm-xilinx-eabi-gcc"
-"ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS= -O2 -c"
+"ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS= -O2 -c",
 "EXTRA_COMPILER_FLAGS=-g"'.
 
 Running libs - 'make -s libs "COMPILER=arm-xilinx-eabi-gcc"
